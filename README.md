@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @HarvyDoshi
 - 👀 I’m interested in Cyber Security,Data Science,Machine learning,deep learnin,DSA and problem solving
 - 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Cyber security and Data analysis
+
 
 <!---
 HarvyDoshi/HarvyDoshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
